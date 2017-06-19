@@ -1,0 +1,682 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"in",
+				"innerHTML"
+			],
+			[
+				"div",
+				"div1"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"th",
+				"This"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"a",
+				"aVlue"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"di",
+				"disabled\tAttr"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"b",
+				"both"
+			],
+			[
+				"num",
+				"num01"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"bc",
+				"border-color"
+			],
+			[
+				"console",
+				"console.log"
+			],
+			[
+				"mu",
+				"museic"
+			],
+			[
+				"re",
+				"red"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"on",
+				"onmouseover"
+			],
+			[
+				"ro",
+				"rotateZ"
+			],
+			[
+				"bo",
+				"button"
+			],
+			[
+				"at",
+				"auto"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"c",
+				"class"
+			],
+			[
+				"img",
+				"imgQl"
+			],
+			[
+				"g",
+				"gray"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"s",
+				"scroll"
+			],
+			[
+				"r",
+				"right1"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"m",
+				"mydiv"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"dil",
+				"display"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"background-",
+				"background-image"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"se",
+				"se01.png"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"bl",
+				"bold"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"borde",
+				"border-right"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"hi",
+				"hidden"
+			],
+			[
+				"e",
+				"emall"
+			],
+			[
+				"wor",
+				"word-spacing"
+			],
+			[
+				"border-bo",
+				"border-bottom"
+			],
+			[
+				"n",
+				"normal"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"ul",
+				"url()"
+			],
+			[
+				"bcak",
+				"background-color"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"bcad",
+				"background-color"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"do",
+				"dotted"
+			],
+			[
+				"d",
+				"dashed"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"t",
+				"therr"
+			],
+			[
+				"five",
+				"five"
+			],
+			[
+				"two",
+				"two"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"url",
+				"url()"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"border-b",
+				"border-bottom"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"blo",
+				"border-left:solid"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"so",
+				"solid"
+			],
+			[
+				"syt",
+				"style"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"u",
+				"url()"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "css",
+		"selected_items":
+		[
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"in",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"i",
+				"Package Control: Install Package→安装插件"
+			]
+		],
+		"width": 594.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Administrator/Desktop/less/css/style.less",
+		"/C/Users/Administrator/Desktop/less/css/stley.css",
+		"/C/Users/Administrator/Desktop/less/style.less",
+		"/C/Users/Administrator/Desktop/less/style.css",
+		"/D/phpStudy/WWW/long/旅游/logon.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/demo1.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/下划线滑动效果.html",
+		"/C/Users/Administrator/Desktop/卿龙练习-作业/在百lodeSupport",
+		"/C/Users/Administrator/Desktop/卿龙练习-作业/js学习/聊天练习/聊天练习.html/嵌套切换.html",
+		"/C/Users/Administrator/Desktop/卿龙练习-作业/js学习/聊天练习/聊天练习.html/9X9.html",
+		"/C/Users/Administrator/Desktop/卿龙练习-作业/音频练习/index.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/04响应式/04响应式/11-bootstrap-响应式.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/04响应式/04响应式/10-bootstrap-响应式.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/04响应式/04响应式/bs/css/bootstrap.css",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/04响应式/04响应式/bs/css/bootstrap.min.css",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/tweenMax课程/tweenMax课程/04-运动效果.html",
+		"/C/Users/Administrator/Desktop/卿龙练习-作业/test.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/tweenMax课程/tweenMax课程/01-引入.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/360搜索.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/diagnosite网站练习/diagnosite网站课件/diagnosite-project/style/style.css",
+		"/C/Users/Administrator/Desktop/basic/basic/sample.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/HTML5的新特性课件 (2)/HTML5的新特性课件/拖放/6拖拽购物车.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/3课件/3课件/canvas2.html",
+		"/C/Users/Administrator/Desktop/卿龙练习-作业/js学习/函数传参_1.html/图片切换.html/canvas图片旋转.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/3课件/3课件/canvas3.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/3课件/3课件/canvas1.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/HTML5的新特性课件 (2)/HTML5的新特性课件/拖放/2拖放.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/03弹性盒模型/03弹性盒模型/01-弹性盒模型.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/音频与视频 webWorkers 移动端HTML5课件/音频与视频 webWorkers 移动端HTML5课件/1demo.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/03弹性盒模型/03弹性盒模型/02-弹性盒模型.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/03弹性盒模型/03弹性盒模型/03-弹性盒模型（主轴方向设置）.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/03弹性盒模型/03弹性盒模型/06-弹性盒模型（侧轴上富裕空间管理）.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/03弹性盒模型/03弹性盒模型/07-弹性盒模型（元素弹性空间）.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/03弹性盒模型/03弹性盒模型/10-淘宝.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/diagnosite网站练习/diagnosite网站课件/diagnosite-project/index.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/03弹性盒模型/03弹性盒模型/09-淘宝.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/04响应式/04响应式/14-bootstrap-响应式.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/04响应式/04响应式/05-响应式-小例子.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/tweenMax课程/tweenMax课程/05-链式运动.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/3D.html",
+		"/C/Users/Administrator/Desktop/卿龙练习-作业/t第三章浮动总结/气节列表.html/css/test.css",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/04响应式/04响应式/08-响应式-引入方式.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/04响应式/04响应式/04.css",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/04响应式/04响应式/03.css",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/04响应式/04响应式/02.css",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/04响应式/04响应式/01.css",
+		"/C/Users/Administrator/Desktop/卿龙练习-作业/git 从本地传到远程方法.txt",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/tweenMax课程/tweenMax课程/10-3d.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/3.31课件/3.31课件/2-for循环.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/况博-聊天工具（切换换样式表+最新聊天记录底部显示）/聊天工具/littleChat.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/js聊天练习.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/3-js选择元素不同方法.html",
+		"/C/Users/Administrator/Desktop/卿龙练习-作业/移动端/移动端001.html/index01.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/rem.less",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/phone.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/04响应式/04响应式/01-响应式.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/04响应式/04响应式/02-响应式-媒体类型.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/04响应式/04响应式/03-响应式-媒体类型.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/04响应式/04响应式/04-响应式-媒体特性.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/04响应式/04响应式/06-响应式.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/04响应式/04响应式/07-响应式-媒体特性.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/04响应式/04响应式/09-响应式-引入方式.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/04响应式/04响应式/12-bootstrap-响应式.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/04响应式/04响应式/13-bootstrap-响应式.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/rem.css",
+		"/D/kugou/酷狗下载_Ql_4.7.html/index.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/Chat practice.html",
+		"/D/用户目录/我的文档/浮动.html",
+		"/D/测试文档/众筹作业.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/position.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/浮动的深度剖析/浮动的深度剖析/useFloat.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/浮动的深度剖析/浮动的深度剖析/inline-block-feature.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/浮动的深度剖析/浮动的深度剖析/float-feature.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/浮动的深度剖析/浮动的深度剖析/6-清浮动的方法.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/浮动的深度剖析/浮动的深度剖析/5-float-feature.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/第三章：浮动的深度剖析.html",
+		"/C/Users/Administrator/Desktop/卿龙练习-作业/好现好店.html",
+		"/C/Users/Administrator/Desktop/卿龙练习-作业/好现好店01.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/H5标签与CSS选择器课件/H5标签与CSS选择器课件/2-常用标签.html",
+		"/C/Users/Administrator/Desktop/卿龙练习-作业/产品模块01.html",
+		"/D/测试文档/it产品作业.html",
+		"/C/Users/ADMINI~1/AppData/Local/Temp/Rar$DRa0.295/H5标签与CSS选择器课件/14-findShop.html",
+		"/D/lige/index.html",
+		"/D/用户目录/我的文档/Tencent Files/847328704/FileRecv/发现好店.html",
+		"/C/Users/ADMINI~1/AppData/Local/Temp/Rar$DRa0.834/浮动的深度剖析/6-清浮动的方法.html",
+		"/C/Users/Administrator/Desktop/卿龙练习-作业/盒模型边框图01.html",
+		"/C/Users/Administrator/Desktop/卿龙练习-作业/margin.html",
+		"/C/Users/Administrator/Desktop/卿龙练习-作业/边框练习.html",
+		"/C/Users/Administrator/Desktop/卿龙练习-作业/head.html",
+		"/C/Users/Administrator/Desktop/卿龙练习-作业/背景练习.html",
+		"/C/Users/Administrator/Desktop/卿龙练习-作业/文本练习01.html",
+		"/C/Users/Administrator/Desktop/卿龙练习-作业/文本练习02.html",
+		"/D/测试文档/背景练习3.html",
+		"/D/用户目录/我的文档/lianxihjh.html",
+		"/D/用户目录/我的文档/边框练习.html",
+		"/D/用户目录/我的文档/练习01.html",
+		"/D/用户目录/我的文档/边框练习01.html",
+		"/D/用户目录/我的文档/test01.html",
+		"/D/王冬雪文档html/HTML+CSS - 实战开发视频.psd",
+		"/D/css作业文档/3.15.html/文字标签练习.html",
+		"/D/测试文档/明星推荐.html",
+		"/D/测试文档/quanqiu.html",
+		"/D/测试文档/文字作业.html",
+		"/D/测试文档/方格课后练习.html",
+		"/D/测试文档/实验发现好店.html",
+		"/C/Users/ADMINI~1/AppData/Local/Temp/Rar$DRa0.004/浮动的深度剖析/useFloat.html",
+		"/D/测试文档/H5标签与CSS选择器课件/第二章：H5标签与CSS选择器.html",
+		"/D/测试文档/测试实验.html",
+		"/D/测试文档/faxianhaodian.html",
+		"/D/css作业文档/3.15.html/lifang.html",
+		"/D/用户目录/我的文档/Tencent Files/1174990669/FileRecv/huhugugjh.html",
+		"/D/测试文档/练习2.html",
+		"/D/测试文档/发现好店.html",
+		"/D/测试文档/hyk.html",
+		"/D/aaaaa.html",
+		"/D/测试文档/1231.html",
+		"/D/测试文档/第一章：前端代码初识PNG练习/one.html",
+		"/D/测试文档/tu.html",
+		"/D/xinfeng.png",
+		"/D/测试文档/测试测试.html",
+		"/D/测试文档/huhu.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\"><",
+			"readOnly",
+			"readonly",
+			"canvas",
+			">\n",
+			"707px",
+			"red",
+			">\n",
+			" padding: 7px;",
+			"div",
+			"dd",
+			"four"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"canvas",
+				"js学习\\函数传参_1.html\\图片切换.html\\canvas图片旋转.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 207.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
